@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there!
+It looks like you've found this page.
+### My current states
+
+- Not employed
+- Working on embedded projects
+- Current targeting on JEDEC SFDP
+- REAL-TIME engineering!
+- Tasting Rust
+
+### *THAT* GitHub API
+[![imi415's GitHub stats](https://github-readme-stats.vercel.app/api?username=imi415)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **imi415/imi415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
