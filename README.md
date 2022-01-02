@@ -2,7 +2,7 @@
 It looks like you've found this page.
 ### My current states
 
-- Not employed
+- Not employed (Currently available for hire)
 - Working on embedded projects
 - Current targeting on JEDEC SFDP
 - REAL-TIME engineering!
