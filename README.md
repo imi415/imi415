@@ -1,12 +1,15 @@
 ### Hi there!
 It looks like you've found this page.
-### My current states
 
+### My current states
 - Not employed (Currently available for hire)
 - Working on embedded projects
-- Current targeting on JEDEC SFDP
+- Current targeting on JEDEC SFDP and USB Device
 - REAL-TIME engineering!
 - Tasting Rust
+
+### Personal stuff
+[Gitea for random stuff](https://git.minori.work)
 
 ### *THAT* GitHub API
 [![imi415's GitHub stats](https://github-readme-stats.vercel.app/api?username=imi415)](https://github.com/anuraghazra/github-readme-stats)
