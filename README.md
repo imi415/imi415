@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Social Accounts
+<a rel="me" href="https://mstdn.imi.moe/@imi415">Mastodon</a>
