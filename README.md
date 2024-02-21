@@ -2,11 +2,7 @@
 It looks like you've found this page.
 
 ### My current states
-- ~~Not employed~~ (Currently *NOT* available for hire)
-- Working on embedded projects
-- Current targeting on JEDEC SFDP and USB Device
 - REAL-TIME engineering!
-- Tasting Rust
 
 ### Personal stuff
 [Gitea for random stuff](https://git.minori.work)
